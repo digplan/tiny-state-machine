@@ -1,0 +1,6 @@
+{
+  "name": "tiny-state-machine",
+  "main": "state-machine.mjs",
+  "version": "0.2.0",
+  "bin": "./test.mjs"
+}
